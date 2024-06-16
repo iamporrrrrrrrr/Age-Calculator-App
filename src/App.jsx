@@ -1,5 +1,4 @@
 import React, { useState } from 'react'
-import '/assets/images/icon-arrow.svg'
 import NewDateForm from './NewDateForm'
 import NewDisplay from './NewDisplay'
 

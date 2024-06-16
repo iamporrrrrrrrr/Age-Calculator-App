@@ -1,4 +1,5 @@
 import { useState } from "react"
+import '/assets/images/icon-arrow.svg'
 
 export default function NewDateForm({ displayTime, displayError }){
 
