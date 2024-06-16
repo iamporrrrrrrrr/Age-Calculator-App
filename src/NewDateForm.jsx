@@ -135,7 +135,7 @@ export default function NewDateForm({ displayTime, displayError }){
                 <div className="footer">
                     <hr/>
                     <button>
-                        <img src='assets\images\icon-arrow.svg'/>
+                        <img src='/assets/images/icon-arrow.svg'/>
                     </button>
                 </div>
             </form>
